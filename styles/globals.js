@@ -1,7 +1,10 @@
 body {
-  background: #f3f6fb;
-  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  font-family: sans-serif;
+  background: #f4f4f9;
 }
-input, button {
-  font-size: 1rem;
+.header {
+  background: #fff;
+  padding: 1rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
 }
